@@ -77,6 +77,11 @@
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
+		<string>com.apple.cellular</string>
+		<key>PayloadUUID</key>
+		<string>7caf56fa-1b5c-4ebd-9670-19dfe4891b46</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
 	<string>C3DD0241-9ABE-4868-9532-FECA2B196476</string>
